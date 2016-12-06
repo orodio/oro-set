@@ -1,0 +1,12 @@
+{
+  "name": "oro-set",
+  "version": "0.0.0",
+  "description": "set nested values",
+  "main": "index.js",
+  "repository": "https://github.com/orodio/oro-set",
+  "author": "James Bjorkman <james@bjorkman.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "oro-update": "^1.0.0"
+  }
+}
